@@ -13,7 +13,7 @@
 </a>
 
 <h1>
-  Tecnologias que eu utilizo no meu dia a dia/possuo conhecimento 👨🏼‍💻
+  Tecnologias que eu possuo conhecimento 👨🏼‍💻
 </h1>
 
 <div>
