@@ -1,9 +1,10 @@
 <h1>
-  Olá, meu nome é Luiz Henrique! 👋
+  Hey, my name is Luiz Henrique! 👋
 </h1>
 
-🎓 -> Futuro estudante de Sistemas de Informação <br>
-📚 -> Estudando Desenvolvimento Web (Full-stack)
+🎓 -> Future information systems student <br>
+📚 -> Studying web and mobile development (Full-stack) <br>
+🏢 -> Working in the city council of Balneário Camboriú (Brazil)
 
 <a href="https://github.com/LuizHeenriquee/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LuizHeenriquee&theme=react&rank_icon=github"/>
@@ -13,7 +14,7 @@
 </a>
 
 <h1>
-  Tecnologias que eu possuo conhecimento 👨🏼‍💻
+  Technologies I have already developed 👨🏼‍💻
 </h1>
 
 <div>
