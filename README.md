@@ -2,7 +2,7 @@
   Hey, my name is Luiz Henrique! 👋
 </h1>
 
-🎓 -> Future information systems student <br>
+🎓 -> Information Systems student <br>
 📚 -> Studying web and mobile development (Full-stack) <br>
 🏢 -> Working in the city council of Balneário Camboriú (Brazil)
 
