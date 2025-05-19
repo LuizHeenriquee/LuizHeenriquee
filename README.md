@@ -3,8 +3,8 @@
 </h1>
 
 🎓 -> Information Systems student (Uniavan College) <br>
-📚 -> Improving myself in Web Development with React and Node.js <br>
-🏢 -> Working in the city council of Balneário Camboriú (Brazil)
+📚 -> Improving myself in Web Development with React, Next and Node.js <br>
+🏢 -> Front-end developer at B&M Log
 
 <a href="https://github.com/LuizHeenriquee/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LuizHeenriquee&theme=react&rank_icon=github"/>
